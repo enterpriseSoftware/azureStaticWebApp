@@ -16,7 +16,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+           <h1>Azure Static Web App</h1>
+           <h4>by Tim Kelley</h4>
         </a>
       </header>
     </div>
